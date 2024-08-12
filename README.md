@@ -11,7 +11,7 @@
 - 📫 Connect with me:
 -  https://www.linkedin.com/in/chika-mbah-5a38461ab
 - ⚡ Fun fact: I Love cooking, reading and watching self development video 
--->
+---
 <!--
 **Jollybake001/jollybake001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
