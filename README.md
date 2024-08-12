@@ -3,7 +3,7 @@
 ## I am also a researcher and a master student of animal breeding, genetics and biotechnology
 ---
 
-- 🔭 I’m currently in my second semester of my course work and working on developing and horning my data analysis skills on Excel 
+- 🔭 I’m currently working on developing and horning my data analysis skills on Excel 
 - 🌱 I’m currently learning to build my skills on Excel.
 - 👯 I’m looking to collaborate with other data analysis professionals to enhance my learning process and put me in the position to give back to the community.
 - 🤔 I’m looking for help with mastering my data analysis skills in powerBI and SQL.
