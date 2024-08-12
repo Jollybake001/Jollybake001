@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with mastering my data analysis skills in powerBI and SQL.
 - 💬 Ask me about EXcel
 - 📫 Connect with me:
--  https://www.linkedin.com/in/chika-mbah-5a38461ab
+-  [LinkedIn](https://www.linkedin.com/in/chika-mbah-5a38461ab)
 - ⚡ Fun fact: I Love cooking, reading and watching self development video 
 ---
 <!--
